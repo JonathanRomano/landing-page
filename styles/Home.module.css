@@ -4,7 +4,7 @@
 
 .title {
   text-align: center;
-  font-size: 7.8vw;
+  font-size: 5.2vw;
   font-family: Arial, Helvetica, sans-serif;
   color: #eaeaea
 }
@@ -62,7 +62,7 @@
     border-color: green;
     padding: 1vw 5vw;
     margin: 3vw 30vw;
-    border-radius: 5vw;
+    border-radius: 5vw; 
 }
   .description {
     color: #eaeaea;
